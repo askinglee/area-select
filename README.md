@@ -13,6 +13,6 @@ npm start
 ## 样例
 参考UI.vue
 ```
-![截图1](https://github.com/askinglee/area-select/blob/master/1.png)
-![截图2](https://github.com/askinglee/area-select/blob/master/2.png)
+![截图1](https://github.com/askinglee/area-select/raw/master/master/1.png)
+![截图2](https://github.com/askinglee/area-select/raw/master/master/2.png)
 
