@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+@for $h from 1 through 6 {
+  h#{$h} {
+    margin-top: 0;
+  }
+}
+
+.clearfix {
+  @include clearfix;
+}
