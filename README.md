@@ -12,7 +12,6 @@ npm start
 
 ## 样例
 参考UI.vue
-```
 ![snap1](https://github.com/askinglee/area-select/raw/master/1.png)
 ![snap2](https://github.com/askinglee/area-select/raw/master/2.png)
 
