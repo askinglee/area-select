@@ -1,5 +1,5 @@
 # vue省市区选择
-利用 vuejs 重构。
+基于vue2&ElementUI重构省市区选择框
 
 ## Build Setup
 ``` bash
